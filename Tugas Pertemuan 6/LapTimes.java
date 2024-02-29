@@ -4,7 +4,7 @@ public class LapTimes {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.print("Masukkan berapa kali anda telah mengelilingi race track: ");
+        System.out.print("Masukkan berapa kali Anda telah mengelilingi race track: ");
         int jumlahLap = scanner.nextInt();
 
         double waktuTotal = 0;
